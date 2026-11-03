@@ -1,0 +1,11 @@
+<script src="script.js" defer></script>
+
+#name-button {
+    display: inline-block;
+    padding: 12px 24px;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
